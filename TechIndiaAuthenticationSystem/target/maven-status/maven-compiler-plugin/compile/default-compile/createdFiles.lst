@@ -1,0 +1,6 @@
+com\ti\login\service\AuthServiceInterface.class
+com\ti\login\service\AuthServiceImpl.class
+com\ti\login\entity\TechIndiaEntity.class
+com\ti\login\repository\TechIndiaAuth.class
+com\ti\login\DemoApplication.class
+com\ti\login\HelloController.class
